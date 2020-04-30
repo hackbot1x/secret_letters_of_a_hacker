@@ -1,3 +1,3 @@
 # secret_letters_of_a_hacker
-Reverse TCP Connection w/file deletion
-why? because Python is fun
+This is a reverse TCP connection w/file deletion.
+Why? Because Python is fun.
